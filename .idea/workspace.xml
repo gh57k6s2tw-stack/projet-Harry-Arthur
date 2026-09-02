@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e925fae6-5e04-4bc2-9013-6340ba1c1672" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projet ipsa Harry Arthur.py" afterDir="false" />
+    <list default="true" id="e925fae6-5e04-4bc2-9013-6340ba1c1672" name="Changes" comment="premier partage">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.ui" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gh57k6s2tw-stack"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gh57k6s2tw-stack/projet-Harry-Arthur.git",
+    "accountId": "f97f652e-3845-400a-b527-2b5f45e1d432"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0096052254359789" />
+      <entry key="MS500" value="1.6289839562526138" />
+      <entry key="S2" value="3.3434262261931416" />
+      <entry key="S5" value="4.5637126079655275" />
+      <entry key="S10" value="5.193723173141088" />
+      <entry key="S30" value="5.708303242384" />
+      <entry key="S60" value="5.851043433460383" />
+      <entry key="M2" value="5.924725269119061" />
+      <entry key="M5" value="5.969696417750259" />
+      <entry key="M10" value="5.9848157128362685" />
+      <entry key="M15" value="5.989869904577524" />
+      <entry key="M30" value="5.994931329630501" />
+      <entry key="H1" value="5.997464758399561" />
+      <entry key="H2" value="5.998732152501897" />
+      <entry key="H4" value="5.999366019564726" />
+      <entry key="D1" value="5.999894328720037" />
+      <entry key="W1" value="5.999984903910015" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9685413878767674" />
+      <entry key="MS500" value="1.6163086122134034" />
+      <entry key="S2" value="3.3372065564215356" />
+      <entry key="S5" value="4.560285586527065" />
+      <entry key="S10" value="5.1917600113237965" />
+      <entry key="S30" value="5.707580053199415" />
+      <entry key="S60" value="5.850672241160221" />
+      <entry key="M2" value="5.9245371915696206" />
+      <entry key="M5" value="5.96962058037859" />
+      <entry key="M10" value="5.984777692176622" />
+      <entry key="M15" value="5.989844534741955" />
+      <entry key="M30" value="5.994918633331029" />
+      <entry key="H1" value="5.997458407401189" />
+      <entry key="H2" value="5.998728976290148" />
+      <entry key="H4" value="5.999364431280662" />
+      <entry key="D1" value="5.999894063981274" />
+      <entry key="W1" value="5.999984866089585" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -40,6 +106,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Projet ipsa Harry Arthur.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -47,6 +115,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/arthurbrg/PycharmProjects/PythonProject2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,8 +138,17 @@
       <option name="presentableId" value="Default" />
       <updated>1788358957615</updated>
       <workItem from="1788358958637" duration="280000" />
-      <workItem from="1788359393349" duration="503000" />
+      <workItem from="1788359393349" duration="3169000" />
     </task>
+    <task id="LOCAL-00001" summary="premier partage">
+      <option name="closed" value="true" />
+      <created>1788359915062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788359915062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +164,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="premier partage" />
+    <option name="LAST_COMMIT_MESSAGE" value="premier partage" />
   </component>
 </project>
