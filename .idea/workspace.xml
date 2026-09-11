@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e925fae6-5e04-4bc2-9013-6340ba1c1672" name="Changes" comment="premier partage">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.ui" afterDir="false" />
+    <list default="true" id="e925fae6-5e04-4bc2-9013-6340ba1c1672" name="Changes" comment="premier partage..">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet ipsa Harry Arthur.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,39 +21,44 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gh57k6s2tw-stack"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gh57k6s2tw-stack&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gh57k6s2tw-stack/projet-Harry-Arthur.git",
-    "accountId": "f97f652e-3845-400a-b527-2b5f45e1d432"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gh57k6s2tw-stack/projet-Harry-Arthur.git&quot;,
+    &quot;accountId&quot;: &quot;f97f652e-3845-400a-b527-2b5f45e1d432&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0096052254359789" />
-      <entry key="MS500" value="1.6289839562526138" />
-      <entry key="S2" value="3.3434262261931416" />
-      <entry key="S5" value="4.5637126079655275" />
-      <entry key="S10" value="5.193723173141088" />
-      <entry key="S30" value="5.708303242384" />
-      <entry key="S60" value="5.851043433460383" />
-      <entry key="M2" value="5.924725269119061" />
-      <entry key="M5" value="5.969696417750259" />
-      <entry key="M10" value="5.9848157128362685" />
-      <entry key="M15" value="5.989869904577524" />
-      <entry key="M30" value="5.994931329630501" />
-      <entry key="H1" value="5.997464758399561" />
-      <entry key="H2" value="5.998732152501897" />
-      <entry key="H4" value="5.999366019564726" />
-      <entry key="D1" value="5.999894328720037" />
-      <entry key="W1" value="5.999984903910015" />
+      <entry key="MS100" value="1.0000000001413596" />
+      <entry key="MS500" value="1.014810781466759" />
+      <entry key="S2" value="2.4577989566138903" />
+      <entry key="S5" value="6.396105351887304" />
+      <entry key="S10" value="9.859168439724815" />
+      <entry key="S30" value="13.542985550187824" />
+      <entry key="S60" value="14.710929365825002" />
+      <entry key="M2" value="15.339517829202235" />
+      <entry key="M5" value="15.738217806011892" />
+      <entry key="M10" value="16.06040695625211" />
+      <entry key="M15" value="16.521361948108314" />
+      <entry key="M30" value="17.870138316316805" />
+      <entry key="H1" value="19.36731634314308" />
+      <entry key="H2" value="20.498619924416783" />
+      <entry key="H4" value="21.19622371354617" />
+      <entry key="D1" value="21.858001909873973" />
+      <entry key="W1" value="21.979508515252107" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -75,24 +80,27 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9685413878767674" />
-      <entry key="MS500" value="1.6163086122134034" />
-      <entry key="S2" value="3.3372065564215356" />
-      <entry key="S5" value="4.560285586527065" />
-      <entry key="S10" value="5.1917600113237965" />
-      <entry key="S30" value="5.707580053199415" />
-      <entry key="S60" value="5.850672241160221" />
-      <entry key="M2" value="5.9245371915696206" />
-      <entry key="M5" value="5.96962058037859" />
-      <entry key="M10" value="5.984777692176622" />
-      <entry key="M15" value="5.989844534741955" />
-      <entry key="M30" value="5.994918633331029" />
-      <entry key="H1" value="5.997458407401189" />
-      <entry key="H2" value="5.998728976290148" />
-      <entry key="H4" value="5.999364431280662" />
-      <entry key="D1" value="5.999894063981274" />
-      <entry key="W1" value="5.999984866089585" />
+      <entry key="MS100" value="0.9526379981795385" />
+      <entry key="MS500" value="1.0050336482988678" />
+      <entry key="S2" value="2.452477726581727" />
+      <entry key="S5" value="6.390700503619187" />
+      <entry key="S10" value="9.85498318855638" />
+      <entry key="S30" value="13.541057010936768" />
+      <entry key="S60" value="14.709879937034207" />
+      <entry key="M2" value="15.338970148862913" />
+      <entry key="M5" value="15.737992912670439" />
+      <entry key="M10" value="16.060292333767755" />
+      <entry key="M15" value="16.521283551834813" />
+      <entry key="M30" value="17.870096247124906" />
+      <entry key="H1" value="19.36729371942726" />
+      <entry key="H2" value="20.49860801262231" />
+      <entry key="H4" value="21.196217572728486" />
+      <entry key="D1" value="21.858000857171234" />
+      <entry key="W1" value="21.979508364099285" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
@@ -113,16 +121,23 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "arthur-feature",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/arthurbrg/PycharmProjects/PythonProject2",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -138,7 +153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1788358957615</updated>
       <workItem from="1788358958637" duration="280000" />
-      <workItem from="1788359393349" duration="3169000" />
+      <workItem from="1788359393349" duration="3438000" />
+      <workItem from="1789109547412" duration="6113000" />
     </task>
     <task id="LOCAL-00001" summary="premier partage">
       <option name="closed" value="true" />
@@ -148,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788359915062</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="premier partage..">
+      <option name="closed" value="true" />
+      <created>1788362900614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788362900614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +183,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="arthur-feature" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -167,6 +203,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier partage" />
-    <option name="LAST_COMMIT_MESSAGE" value="premier partage" />
+    <MESSAGE value="premier partage.." />
+    <option name="LAST_COMMIT_MESSAGE" value="premier partage.." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject2$Projet_ipsa_Harry_Arthur.coverage" NAME="Projet ipsa Harry Arthur Coverage Results" MODIFIED="1788362588179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject2$main.coverage" NAME="main Coverage Results" MODIFIED="1789110166019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
